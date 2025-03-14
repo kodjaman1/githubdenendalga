@@ -5,3 +5,5 @@ set up codespace diyince tarayıcıdan vscode açtı ammınakoyim, vscode in the
 
 commit dedikten sonra sync seçeneğine basmak gerekti. basınca "push ve pull yapıcan yani öyle mi yeğenim?" dedi,
 pek bilmeden "he dayı" dedik. github'a baktığımda commit mesajımla beraber yaptığım değişiklik de gitmişti. sanırım bu işleme pushlamak deniyor. yine deneyelim.
+
+pullamak ne peki ağabey
